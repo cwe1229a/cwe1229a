@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cwe1229a a.k.a , Courtney!
-- 👀 I’m interested in coding (crazy, I know!) , a variety of games, hiking and doing a wide array of crafts
-- ✨ I'm on a journey to learn Web Development
-- 🌱 I’m currently learning JavaScript and honing my skills in basic HTML and CSS
+- 👀 I’m interested in learning code, D&D & table top games, hiking and doing a wide array of crafts
+- ✨ I'm on a journey to become a Web Developer
+- 🌱 I’m currently learning React and creating native applications
 - 💞️ I’m looking to collaborate with anyone else also looking to learn code
 - 📫 You can email me at ccweb29@gmail.com 
 
