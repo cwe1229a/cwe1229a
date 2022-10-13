@@ -1,9 +1,12 @@
 - 👋 Hi, I’m @cwe1229a a.k.a , Courtney!
 - 👀 I’m interested in learning code, D&D & table top games, live music and doing a wide array of crafts
 - ✨ I'm on a journey to become a Web Developer
-- 🌱 I’m currently learning TypeSript and Angular
+- 🌱 I’m currently solidfying my knowledge with JS and React
 - 💞️ I’m looking to collaborate with anyone else also looking to learn code
 - 📫 You can email me at ccweb29@gmail.com 
+
+Always learning to improve!
+🎓
 
 ## 🛠 Skills
 Javascript, HTML, CSS, nodejs, Bootstrap, React
