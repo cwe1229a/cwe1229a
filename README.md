@@ -6,7 +6,7 @@ Always learning to improve!
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, nodejs, Bootstrap, React
+Javascript, HTML, CSS, node.js, React, Angular
 
 <!---
 cwe1229a/cwe1229a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
