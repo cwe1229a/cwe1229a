@@ -1,4 +1,4 @@
-## Courtney Webster
+## Courtney 'Court' Webster
 I'm a beginner web developer dipping my toes into the world of coding. I also enjoy illustrating and just ✨ creating ✨
 
 Always learning to improve!
