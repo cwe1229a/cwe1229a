@@ -1,11 +1,13 @@
 ## Courtney 'Court' Webster
 I'm a beginner web developer dipping my toes into the world of coding. I also enjoy illustrating and just ✨ creating ✨
 
-Always learning to improve!
+Never stop learning!
 🎓
 
 - 📫 You can email me at ccweb29@gmail.com 
-
+<p align="left">
+<a href="https://twitter.com/cwe1229a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cwe1229a" height="30" width="40" /></a>
+</p>
 
 
 
