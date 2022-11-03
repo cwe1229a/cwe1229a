@@ -5,9 +5,6 @@ Never stop learning!
 🎓
 
 - 📫 You can email me at ccweb29@gmail.com 
-<p align="left">
-<a href="https://twitter.com/cwe1229a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cwe1229a" height="30" width="40" /></a>
-</p>
 
 
 
