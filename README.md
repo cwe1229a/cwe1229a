@@ -1,8 +1,7 @@
 ## Court
 I'm a beginner web developer dipping my toes into the world of coding. I also enjoy illustrating and just ✨ creating ✨
 
-Never stop learning!
-🎓
+I am also a huge nerd 🐉
 
 - 📫 You can email me at ccweb29@gmail.com 
 
