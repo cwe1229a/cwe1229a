@@ -1,5 +1,5 @@
 ## Court
-I'm a beginner web developer dipping my toes into the world of coding. I also enjoy illustrating and just ✨ creating ✨
+I'm a web developer dipping my toes into the world of coding. I also enjoy illustrating and just ✨ creating ✨
 
 I am also a huge nerd 🐉
 
