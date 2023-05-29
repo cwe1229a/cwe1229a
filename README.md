@@ -1,7 +1,6 @@
 ## Court
-I'm a web developer dipping my toes into the world of coding. I also enjoy illustrating and just ✨ creating ✨
+I'm a web developer who enjoys fun design and projects. I also like to illustrate 
 
-I am also a huge nerd 🐉
 
 - 📫 You can email me at ccweb29@gmail.com 
 
