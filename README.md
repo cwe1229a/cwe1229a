@@ -1,5 +1,5 @@
 ## Court
-I'm a web developer who enjoys fun design and projects. I also like to illustrate 
+I'm a software developer who enjoys fun design and projects. I also like to illustrate 
 
 
 - 📫 You can email me at ccweb29@gmail.com 
